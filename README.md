@@ -83,3 +83,6 @@ Accuracy and loss plots are used to visualize training performance.
 
 Evaluation includes measuring overall classification accuracy.
 
+# -OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8272edcb-a0f8-444e-b742-09848d9062e3)
